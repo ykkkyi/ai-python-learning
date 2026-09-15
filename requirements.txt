@@ -1,2 +1,3 @@
 # Week 01 only uses the Python standard library.
-
+# The table output example in the random number selection exercise uses Rich.
+rich
