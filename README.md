@@ -9,6 +9,7 @@
 - [Python 基础笔记](python_basic/README.md)：数据类型、运算符、分支、循环、列表、元组、字符串、集合、字典。
 - [题目训练](题目训练/README.md)：运算、条件判断、循环与随机模拟练习。
 - [第一周练习索引](week01-python-basics/练习索引.md)：输入输出、函数、词频统计与成绩统计。
+- [第二周：函数与模块](week02-python/README.md)：函数定义、参数、模块与函数练习。
 
 每份 Python 练习都有对应的 Markdown 笔记。原始代码保留学习记录；发现的问题在对应笔记中解释，部分笔记提供修正后的参考代码。
 
@@ -41,6 +42,7 @@ ai-python-learning/
   python_basic/          # 按主题整理的基础笔记与代码
   题目训练/             # 题目说明、思路和练习代码
   week01-python-basics/
+  week02-python/         # 函数、模块与函数题训练
 ```
 
 ## 第一周自评记录
