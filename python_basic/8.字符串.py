@@ -55,7 +55,7 @@ for i in range(len(s)):
     print(s[i],end='')
 
 
-    s1 = 'hello, world!'
+s1 = 'hello, world!'
 # 字符串首字母大写
 print(s1.capitalize())  # Hello, world!
 # 字符串每个单词首字母大写

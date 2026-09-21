@@ -1,7 +1,5 @@
 
-
 import random
-
 money=1000
 while money>0:
     print("你现在有%d元钱"%money)

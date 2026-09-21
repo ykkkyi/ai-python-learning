@@ -1,6 +1,7 @@
 items1 = [35, 12, 99, 68, 55, 35, 87]
 items2 = ['Python', 'Java', 'Go', 'Kotlin']
 items3 = [100, 12.3, 'Python', True]
+items4 = list(range(1,7))  #list的构造器
 print(items1)  # [35, 12, 99, 68, 55, 35, 87]
 print(items2)  # ['Python', 'Java', 'Go', 'Kotlin']
 print(items3)  # [100, 12.3, 'Python', True]
@@ -79,7 +80,7 @@ for x in languages:
 
 
 """
-将一颗色子掷6000次，统计每种点数出现的次数
+将一颗色子掷6000次,统计每种点数出现的次数
 
 Author: 骆昊
 Version: 1.1

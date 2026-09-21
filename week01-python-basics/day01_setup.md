@@ -1,12 +1,12 @@
 # Day 1 Setup: Windows 环境配置
 
-初次配置时的历史检查记录：
+当前检查结果：
 
 - Git: 已安装
 - Python: 当前终端无法识别 `python`
 - Conda: 当前终端无法识别 `conda`
 
-这些记录不代表当前环境状态。当前学习环境为 Anaconda 下的 `ai-python`；优先在 Anaconda Prompt 中执行 `conda activate ai-python`，并在 VS Code 中选择该环境的解释器。普通终端无法识别命令时，也可能只是 PATH 尚未配置。
+这通常表示 Python/Conda 没有安装，或者安装后没有配置到终端 PATH。
 
 ## 推荐安装方式
 
@@ -52,7 +52,7 @@ git --version
 在 Anaconda Prompt / Miniconda Prompt 中进入仓库目录：
 
 ```bash
-cd /d D:\ai-python-learning-1
+cd /d C:\Users\13712\Documents\python学习
 ```
 
 创建环境：

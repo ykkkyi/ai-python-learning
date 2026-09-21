@@ -10,7 +10,5 @@ for i in range(x,0,-1):
 x=int(input('x='))
 y=int(input('y='))
 while y!=0:
-    tmp=x%y
-    x=y
-    y=tmp
+    x,y=y,x%y
 print(f'最大公约数是{x}')

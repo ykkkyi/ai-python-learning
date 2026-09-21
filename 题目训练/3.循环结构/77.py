@@ -1,7 +1,5 @@
 
-
 import random
-
 money=int(input("请输入你带的金额："))
 base=money
 while money>0:

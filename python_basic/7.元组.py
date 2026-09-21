@@ -138,5 +138,10 @@ print('%.3f 秒' % timeit.timeit('(1,2,3,4,5,6,7,8,9)',number=1000000))
 
 
 infos=('yky',11,True)
-print(infos)
-print(list(infos))
+# 将元组转换成列表
+print(infos)  # ('yky',11,True)
+print(list(infos))  # ['yky', 11, True]
+
+frts = ['apple', 'banana', 'orange']
+# 将列表转换成元组
+print(tuple(frts))  # ('apple', 'banana', 'orange')
