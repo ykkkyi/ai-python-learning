@@ -21,4 +21,4 @@ student.study(stu1, 'Python程序设计')    # 学生正在学习Python程序设
 stu1.study('Python程序设计')             # 学生正在学习Python程序设计.
 
 student.play(stu2)                      # 学生正在玩游戏.
-stu2.play()                             # 学生正在玩游戏. 
+stu2.play()                             # 学生正在玩游戏.

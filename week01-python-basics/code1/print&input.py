@@ -1,5 +1,5 @@
 
-print('hello','world','yky')       
+print('hello','world','yky')
 #print()会依次打印每个字符串，遇到逗号,会输出一个空格，因此，输出的字符串是这样拼起来的
 
 print('100+200=',100+200)

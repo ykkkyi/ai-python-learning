@@ -21,7 +21,7 @@ print(new_nums)
 
 
 import functools
-import operator 
+import operator
 # 用一行代码实现计算阶乘的函数
 fac = lambda n:functools.reduce(operator.mul,range(2,n+1),1)
 # 用一行代码实现判断素数的函数
@@ -38,6 +38,3 @@ print(int(s))
 print(int2(s))
 print(int8(s))
 print(int16(s))
-
-
-
